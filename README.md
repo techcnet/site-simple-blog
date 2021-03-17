@@ -24,12 +24,16 @@ The whole blog consists mainly from the following pages:
 - __Archive page__ (Template: simple-blog-archive) This page lists all published posts in a tree structure sorted by published date. Hidden posts are not listed.
 - __Search page__ (Template: simple-search) This page offers a search form.
 - __Contact page__ (Template: simple-contact-form) This page offers a contact form.
+
 !["Structure"](https://tech-c.net/site/assets/files/1198/structure.jpg)
 
 ## Add a new post
 Open the page structure, select **Posts** and click **New**.
+
 !["Add a new post"](https://tech-c.net/site/assets/files/1198/add-new-post-1.jpg)
+
 Make sure that **simple-blog-post** is selected as Template.
+
 !["Add a new post"](https://tech-c.net/site/assets/files/1198/add-new-post-2.jpg)
 
 ## Set the featured graphic
@@ -37,10 +41,15 @@ The post list shows a featured graphic in front of every post. This graphic is t
 
 ## Create and select categories
 Before you can select categories you have to create it. Open the page structure, select **Categories** and click **New**.
+
 !["Create category"](https://tech-c.net/site/assets/files/1198/create-category-1.jpg)
+
 Make sure that **simple-blog-category** is selected as Template. The page title specifies the category name.
+
 !["Create category"](https://tech-c.net/site/assets/files/1198/create-category-2.jpg)
+
 Open your post and click on **Add** in the Categories field and select a category.
+
 !["Create category"](https://tech-c.net/site/assets/files/1198/select-category.jpg)
 
 ## Sidebars
@@ -48,8 +57,10 @@ Each page can have a sidebar regardless of the page type. Just open the page, cl
 
 ## Pagination
 Post lists are sorted by published date and paginated to 10 posts per page.
+
 !["Create category"](https://tech-c.net/site/assets/files/1198/pagination.jpg)
 
 ## Contact form
 Before you can use the contact form you have to specify the receiver email address. Open the page structure, select **Contact** and click **Edit**. Enter the email address in the **E-Mail Address** field. You can also specify your **Recaptcha-Site-Key** and **Recaptcha-Secret-Key** to protect the form with Recaptcha.
+
 !["Create category"](https://tech-c.net/site/assets/files/1198/contact-form.jpg)
