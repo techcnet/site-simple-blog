@@ -2,6 +2,8 @@
 
 This site profile for ProcessWire offers a simple and responsive blog which doesn't require any third-party modules. It works exclusively based on some template files.
 
+!["Installation"](https://tech-c.net/site/assets/files/1198/screenshot-500.jpg)
+
 ## Installation
 This site profile is intended for use with a fresh installation of ProcessWire.
 1. Download ProcessWire, extract all files and folders and upload it into your web server folder.
