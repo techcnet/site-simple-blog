@@ -8,6 +8,7 @@ This site profile is intended for use with a fresh installation of ProcessWire.
 2. Download the site profile, extract the **site-simple-blog** folder and upload it into the same folder.
 3. Start the installation.
 4. When prompted for Site Installation Profile select **Simple Blog Profile for ProcessWire 3x** and continue with installation.
+
 !["Installation"](https://tech-c.net/site/assets/files/1198/installation.jpg)
 
 ## Setup
