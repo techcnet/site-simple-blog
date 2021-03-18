@@ -7,7 +7,7 @@ This site profile for ProcessWire offers a simple and responsive blog which does
 ## Installation
 This site profile is intended for use with a fresh installation of ProcessWire.
 1. [Download ProcessWire](https://processwire.com/download/core/ "Download ProcessWire"), extract all files and folders and upload it into your web server folder.
-2. Download the site profile, extract the **site-simple-blog** folder and upload it into the same folder.
+2. [Download the site profile](https://processwire.com/modules/site-simple-blog/ "Download the site profile"), extract the **site-simple-blog** folder and upload it into the same folder.
 3. Start the installation.
 4. When prompted for Site Installation Profile select **Simple Blog Profile for ProcessWire 3x** and continue with installation.
 
