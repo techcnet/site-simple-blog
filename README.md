@@ -18,14 +18,14 @@ There are no settings for this blog. Everything is ready after installation. You
 
 ## Structure
 The whole blog consists mainly from the following pages:
-- __Home page__ (Template: simple-blog-home) This page shows the latest 5 posts below the content.
-- __Posts page__ (Template: simple-blog-posts) This page lists all published posts. Hidden posts are not listed. Posts are sorted by published date. The latest posts are shown first in the list. All posts are paginated to 10 posts per page.
-- __Post page__ (Template: simple-blog-post) This page shows the content and a comment list with comment form provided by the FieldtypeComments which is shipped with ProcessWire.
-- __Categories page__ (Template: simple-blog-categories) This page lists all categories which have posts.
-- __Category page__ (Template: simple-blog-category) This page lists all posts in this category. Hidden posts are not listed.
-- __Archive page__ (Template: simple-blog-archive) This page lists all published posts in a tree structure sorted by published date. Hidden posts are not listed.
-- __Search page__ (Template: simple-search) This page offers a search form.
-- __Contact page__ (Template: simple-contact-form) This page offers a contact form.
+1. __Home page__ (Template: simple-blog-home) This page shows the latest 5 posts below the content.
+2. __Posts page__ (Template: simple-blog-posts) This page lists all published posts. Hidden posts are not listed. Posts are sorted by published date. The latest posts are shown first in the list. All posts are paginated to 10 posts per page.
+3. __Post page__ (Template: simple-blog-post) This page shows the content and a comment list with comment form provided by the FieldtypeComments which is shipped with ProcessWire.
+4. __Categories page__ (Template: simple-blog-categories) This page lists all categories which have posts.
+5. __Category page__ (Template: simple-blog-category) This page lists all posts in this category. Hidden posts are not listed.
+6. __Archive page__ (Template: simple-blog-archive) This page lists all published posts in a tree structure sorted by published date. Hidden posts are not listed.
+7. __Search page__ (Template: simple-search) This page offers a search form.
+8. __Contact page__ (Template: simple-contact-form) This page offers a contact form.
 
 !["Structure"](https://tech-c.net/site/assets/files/1198/structure.jpg)
 
