@@ -6,7 +6,7 @@
   $content .= '<div>';
   $content .= '<input name="q" type="text" value="'.$q.'" />';
   $content .= '</div>';
-  $content .= '<div><input type="submit" value="" /></div>';
+  $content .= '<div><input type="submit" value=" " /></div>';
   $content .= '</form>';
 
   if (trim($q) != '') {
