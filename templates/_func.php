@@ -146,7 +146,7 @@ function simple_blog_get_categories($pages, $language, $category_name, $show_cat
           $result .= $posts[$i]->summary;
           
           if ($posts[$i]->localHttpUrl) {
-            $result .= ' <a href="'.$posts[$i]->localHttpUrl($language).'">'.simple_blog_get_translation('Read more...', $language).'</a>';
+            $result .= ' <a href="'.$posts[$i]->localHttpUrl($language).'">'.__('Read more...').'</a>';
           } else {
             $result .= ' <a href="'.$posts[$i]->httpUrl().'">'.__('Read more...').'</a>';
           }
