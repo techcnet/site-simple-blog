@@ -59,6 +59,7 @@ The menu is automatically generated from the available pages below the root, whi
 1. set to visible
 2. are published
 3. have a **Menu text**
+
 The same rule applies to the "Quick Links" in the footer. If the page images containing an image with the name "menu-image.png", then this image will be used in the responsive menu.
 
 !["Menu"](https://tech-c.net/site/assets/files/1198/menu.jpg)
