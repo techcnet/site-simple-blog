@@ -76,3 +76,6 @@ Posts are sorted by published date and paginated to 10 posts per page.
 Before you can use the contact form you have to specify the receiver email address. Open the page structure, select **Contact** and click **Edit**. Enter the email address in the **E-Mail Address** field. You can also specify your **Recaptcha-Site-Key** and **Recaptcha-Secret-Key** to protect the form with Recaptcha.
 
 !["Contact form"](https://tech-c.net/site/assets/files/1198/contact-form.jpg)
+
+## Theme
+The theme can easily customized to your requirement. The header graphic is located in **/site/templates/images/header.jpg**. This graphic is stretched to the whole header size. The logo is located in **/site/templates/images/logo.png**. The height of the logo also specifies the height of the header if the browser window is 700px or wider. If smaller than 700px the height is reduced to 60px. The main style is located in **/site/templates/styles/main.css**.
