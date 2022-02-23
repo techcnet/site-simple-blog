@@ -34,7 +34,7 @@ Open the page structure, select **Posts** and click **New**.
 
 !["Add a new post"](https://tech-c.net/site/assets/files/1198/add-new-post-1.jpg)
 
-Make sure that **simple-blog-post** is selected as Template.
+Make sure that **simple-blog-post** is selected as template.
 
 !["Post template"](https://tech-c.net/site/assets/files/1198/add-new-post-2.jpg)
 
@@ -46,7 +46,7 @@ Before you can select categories you have to create it. Open the page structure,
 
 !["Create category"](https://tech-c.net/site/assets/files/1198/create-category-1.jpg)
 
-Make sure that **simple-blog-category** is selected as Template. The page title specifies the category name.
+Make sure that **simple-blog-category** is selected as template. The page title specifies the category name.
 
 !["Category template"](https://tech-c.net/site/assets/files/1198/create-category-2.jpg)
 
