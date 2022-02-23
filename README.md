@@ -5,7 +5,7 @@ This site profile for ProcessWire offers a simple and responsive blog which does
 !["Screenshot"](https://tech-c.net/site/assets/files/1198/screenshot-500.jpg)
 
 ## Installation
-This site profile is intended for use bei a new installation of ProcessWire.
+This site profile is intended for use with a new installation of ProcessWire.
 1. [Download ProcessWire](https://processwire.com/download/core/ "Download ProcessWire"), extract all files and folders and upload it into your web server folder.
 2. [Download the site profile](https://processwire.com/modules/site-simple-blog/ "Download the site profile"), extract the **site-simple-blog** folder and upload it into the same folder.
 3. Start the installation.
