@@ -39,7 +39,7 @@ Make sure that **simple-blog-post** is selected as Template.
 !["Post template"](https://tech-c.net/site/assets/files/1198/add-new-post-2.jpg)
 
 ## Set the featured graphic
-The post list shows a featured graphic in front of every post. This graphic is taken from the first available image in the image field of the respective post. Note that you can change the order of images in the image field by dragging it to another position. The image should have the dimension of 96px X 96px.
+The post list shows a featured graphic in front of every post. This graphic is taken from the first available image in the image field of the respective post. Note that you can change the order of images in the image field by dragging it to another position. The image should have the dimension of 96x96 px.
 
 ## Create and select categories
 Before you can select categories you have to create it. Open the page structure, select **Categories** and click **New**.
