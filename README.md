@@ -1,6 +1,6 @@
 # Simple Blog Profile for ProcessWire 3x
 
-This site profile for ProcessWire offers a simple and responsive blog which doesn't require any module. It works exclusively based on some template files.
+This site profile for ProcessWire offers a simple and responsive blog which doesn't require any module. It works exclusively with some template files.
 
 !["Screenshot"](https://tech-c.net/site/assets/files/1198/screenshot-500.jpg)
 
