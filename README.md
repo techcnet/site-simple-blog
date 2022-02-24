@@ -13,7 +13,7 @@ This site profile is intended for use with a new installation of ProcessWire.
 
 !["Installation"](https://tech-c.net/site/assets/files/1198/installation.jpg)
 
-## Setup
+## Settings
 There are no settings for this blog. Everything is ready after installation. You just have to fill it with content and maybe add some new pages. The theme can be changed as described below.
 
 ## Structure
