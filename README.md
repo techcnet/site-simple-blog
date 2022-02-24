@@ -17,7 +17,7 @@ This site profile is intended for use with a new installation of ProcessWire.
 There are no settings for this blog. Everything is ready after installation. You just have to fill it with content and maybe add some new pages. The theme can be changed as described below.
 
 ## Structure
-The whole blog consists from the following templates:
+The whole blog consists of the following templates:
 1. __Home page__ (Template: simple-blog-home) This page shows the latest 5 posts below the content.
 2. __Posts page__ (Template: simple-blog-posts) This page lists all published posts. Hidden posts are not listed. Posts are sorted by published date. The latest posts are shown first in the list. All posts are paginated to 10 posts per page.
 3. __Post page__ (Template: simple-blog-post) This page shows the content and a comment list with comment form provided by the FieldtypeComments which is shipped with ProcessWire.
