@@ -13,7 +13,7 @@ class site-simple-blog extends WireData implements Module {
   public static function getModuleInfo() {
     return array(
       'title' => 'Simple Blog Profile for ProcessWire 3x',
-      'summary' => 'This site profile for ProcessWire offers a simple and responsive blog which doesn't require any module. It works exclusively with some template files.',
+      'summary' => 'This site profile for ProcessWire offers a simple and responsive blog which does not require any module. It works exclusively with some template files.',
       'author' => 'tech-c.net',
       'version' => 103);
   }
