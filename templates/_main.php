@@ -69,7 +69,7 @@
         echo '<div id="footer-table">';
           echo '<div id="footer-row">';
             echo '<div id="footer-cell1">';
-              echo '<span>'._('Quick Links').'</span><hr />';
+              echo '<span>'.__('Quick Links').'</span><hr />';
               echo '<ul style="footer-links">';
                 foreach ($homepage->and($homepage->children) as $item) {
                   if ($item->menutext) {
@@ -79,7 +79,7 @@
               echo '</ul>';
             echo '</div>';
             echo '<div id="footer-cell2">';
-              echo '<span>'._('Search').'</span><hr />';
+              echo '<span>'.__('Search').'</span><hr />';
               echo '<form action="'.$pages->get('1017')->url.'" id="footer-search" method="GET">';
                 echo '<div>';
                   echo '<input name="q" type="text" value="" />';
@@ -90,8 +90,8 @@
               echo '</form>';
             echo '</div>';
             echo '<div id="footer-cell3">';
-              echo '<span>'._('Cookies').'</span><hr />';
-              echo '<p>'._('This website uses cookies. By using this website, you agree to the Cookies Policy.').'&nbsp;<a href="'.$pages->get('1053')->url.'">'._('Read more...').'</a></p>';
+              echo '<span>'.__('Cookies').'</span><hr />';
+              echo '<p>'.__('This website uses cookies. By using this website, you agree to the Cookies Policy.').'&nbsp;<a href="'.$pages->get('1053')->url.'">'.__('Read more...').'</a></p>';
             echo '</div>';
           echo '</div>';
         echo '</div>';
