@@ -6,7 +6,7 @@
  *
  * @author tech-c.net
  * @license Licensed under GNU/GPL v2
- * @version 1.0.3
+ * @version 1.0.4
  */
 
 class site-simple-blog extends WireData implements Module {
@@ -15,6 +15,6 @@ class site-simple-blog extends WireData implements Module {
       'title' => 'Simple Blog Profile for ProcessWire 3x',
       'summary' => 'This site profile for ProcessWire offers a simple and responsive blog which does not require any module. It works exclusively with some template files.',
       'author' => 'tech-c.net',
-      'version' => 103);
+      'version' => 104);
   }
 }
