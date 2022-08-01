@@ -1,5 +1,9 @@
 # Simple Blog Profile for ProcessWire 3x
 
+![GitHub](https://img.shields.io/github/license/techcnet/site-simple-blog)
+![GitHub last commit](https://img.shields.io/github/last-commit/techcnet/site-simple-blog)
+[![PHPMD](https://github.com/techcnet/site-simple-blog/actions/workflows/phpmd.yml/badge.svg)](https://github.com/techcnet/site-simple-blog/actions/workflows/phpmd.yml)
+
 This site profile for ProcessWire offers a simple and responsive blog which doesn't require any module. It works exclusively with some template files.
 
 !["Screenshot"](https://tech-c.net/site/assets/files/1198/screenshot-500.jpg)
