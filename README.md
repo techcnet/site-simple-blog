@@ -2,7 +2,6 @@
 
 ![GitHub](https://img.shields.io/github/license/techcnet/site-simple-blog)
 ![GitHub last commit](https://img.shields.io/github/last-commit/techcnet/site-simple-blog)
-[![PHPMD](https://github.com/techcnet/site-simple-blog/actions/workflows/phpmd.yml/badge.svg)](https://github.com/techcnet/site-simple-blog/actions/workflows/phpmd.yml)
 [![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/techcnet)
 
 This site profile for ProcessWire offers a simple and responsive blog which doesn't require any module. It works exclusively with some template files.
