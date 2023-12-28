@@ -1,0 +1,83 @@
+.searchform{
+display:table;
+margin-top:10px;
+width:300px;
+padding:2px;
+border:1px solid #C2C2C2;
+-webkit-border-radius:5px;
+-moz-border-radius:5px;
+-ms-border-radius:5px;
+-o-border-radius:5px;
+border-radius:5px;
+-moz-box-shadow:1px 1px 4px #cccccc;
+-webkit-box-shadow:1px 1px 4px #cccccc;
+box-shadow:1px 1px 4px #cccccc;
+}
+
+.searchform > div:nth-child(1){
+display:table-cell;
+width:100%;
+}
+
+.searchform > div:nth-child(2){
+display:table-cell;
+}
+
+.searchform input[type="text"]{
+width:100%;
+-webkit-border-radius:0;
+-moz-border-radius:0;
+-ms-border-radius:0;
+-o-border-radius:0;
+border-radius:0;
+-moz-box-shadow:none;
+-webkit-box-shadow:none;
+box-shadow:none;
+border:0;
+}
+
+.searchform input[type="text"]:focus{
+-moz-box-shadow:none;
+-webkit-box-shadow:none;
+box-shadow:none;
+border:0;
+}
+
+.searchform input[type="submit"]{
+width:38px;
+-webkit-border-radius:0;
+-moz-border-radius:0;
+-ms-border-radius:0;
+-o-border-radius:0;
+border-radius:0;
+-moz-box-shadow:none;
+-webkit-box-shadow:none;
+box-shadow:none;
+border:0;
+background-color:#ffffff;
+background-repeat:no-repeat;
+background-position:center center;
+background-image:url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABHNCSVQICAgIfAhkiAAAAjBJREFUOI2Nz7FrGnEUB/D37qq5KnenBpIUVM6K9TLoIHQSYrcUMoSkpVM79j8ouLmJEjp26dCxVGjJbFO66RISOJK0SWrASLxqkJNT/Jnmd+fvOjUEyVG/03s83of3EKZSLBZ9giBIhJDLQqHgTM+ng/+KSqWSopRuIWJQEAR+Mpl4VVX9JIriVjweZ27APQCAarWa6vV6H9Pp9LdUKiUwxjjTNCc7OzvZTCbzHgBeuwEcAADHcW/n5+c/Ly8vtxDxmOf5H7Isn2az2Vqz2XzUarWyrhd0Oh1pd3c3lEgkzhHRRMQrALjmOO6aUuoQQuxms7kOAPU7LwgGgxLP8+Tg4OB0PB4fAkALAAxEHCHiaDweX5qmKbm+MBwOfy8tLYX29vY4Qsh9xpgIAAHGWIAxJi0uLqZ1XT9yBRYWFphhGF9WV1dfaZoWIoSIjDHZtu3AxcWFMhgMXnq93q9uAA8AoKpqDRFfiKL4dDgcXo9GI7Hdbj9uNBpvFEV5EI1Gn1iWdaJp2vk0gLebfD6fC4fDax6PJ6Truqbr+vdMJrPd7XZVQsiVIAibpVKp6grclWQyuSZJ0nYkEvHGYrE/Ho9no1wu3yD8/wDDMBp+v//QsqxNxticKIrPc7ncfq1WO5sJAADo9/unPp/v6DaysrKyX6/Xz2YCAABkWT6hlP6klG44jjPn9/ufKYryYWbANE1wHOcYEX9RStdt27YMw3g36/5NEBGi0WgiFos9BADuLzJE+rasZg7/AAAAAElFTkSuQmCC");
+cursor:pointer;
+}
+
+.searchlist{
+list-style:none;
+margin:0;
+padding:0;
+}
+
+.searchlist li{
+list-style:none;
+padding-bottom:20px;
+}
+
+.searchlist span{
+color:green;
+}
+
+@media screen and (max-width:450px){
+.searchform{
+width:100%;
+}
+}
