@@ -6,7 +6,11 @@
  *
  * @author tech-c.net
  * @license Licensed under GNU/GPL v2
- * @version 1.0.5
+ * @link https://tech-c.net/posts/simple-blog-profile-for-processwire/
+ * @version 1.0.6
+ * 
+ * @see Forum Thread: https://processwire.com/talk/topic/25292-site-profile-simple-blog-profile-for-processwire-3x/
+ * @see Donate: https://tech-c.net/donation/
  */
 
 class site-simple-blog extends WireData implements Module {
@@ -14,7 +18,8 @@ class site-simple-blog extends WireData implements Module {
     return array(
       'title' => 'Simple Blog Profile for ProcessWire 3x',
       'summary' => 'This site profile for ProcessWire offers a simple and responsive blog which does not require any module. It works exclusively with some template files.',
+      'href' => 'https://tech-c.net/posts/simple-blog-profile-for-processwire/',
       'author' => 'tech-c.net',
-      'version' => 105);
+      'version' => 106);
   }
 }
