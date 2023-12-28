@@ -13,7 +13,7 @@
  * @see Donate: https://tech-c.net/donation/
  */
 
-class site-simple-blog extends WireData implements Module {
+class site-simple-blog implements Module{
   public static function getModuleInfo() {
     return array(
       'title' => 'Simple Blog Profile for ProcessWire 3x',
